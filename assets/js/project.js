@@ -48,7 +48,7 @@ const projects = [
     Githublink: "",
   },
   */
-  */
+
   {
     title: "Bene Opes, LLC",
     cardImage: "assets/images/project-page/poker.jpg",
@@ -66,7 +66,8 @@ const projects = [
     Previewlink: "",
     Githublink: "",
   },
-    /*
+ ];
+/*
   {
     title: "Personal Book Library",
     cardImage: "assets/images/project-page/book.png",
