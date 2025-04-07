@@ -66,8 +66,7 @@ const projects = [
     Previewlink: "",
     Githublink: "",
   },
- ];
-/*
+
   {
     title: "Personal Book Library",
     cardImage: "assets/images/project-page/book.png",
@@ -116,7 +115,6 @@ const projects = [
   },
 ];
 
-     */
 
 // function for rendering project cards data
 const showCards = () => {
