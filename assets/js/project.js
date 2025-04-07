@@ -37,7 +37,7 @@ const projects = [
     Previewlink: "",
     Githublink: "",
   },
- /*
+
   {
     title: "Recipe Ingredient Parser",
     cardImage: "assets/images/project-page/recipe.jpg",
@@ -47,7 +47,7 @@ const projects = [
     Previewlink: "",
     Githublink: "",
   },
-  */
+
 
   {
     title: "Bene Opes, LLC",
