@@ -6,37 +6,38 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Quiz App",
+    title: "Melius Imperio L.L.C",
     cardImage: "assets/images/project-page/quiz.jpg",
-    description: "A quiz app built using basic react.",
+    description: "Technology and Business Consulting.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
+    Previewlink: "https://mimperio.tech",
     Githublink: "",
   },
   {
-    title: "Chess Engine",
+    title: "Meliora Nexus",
     cardImage: "assets/images/project-page/chess.jpg",
-    description: "A chess engine for a popular game dev engine.",
+    description: "Reasearch and Development (R&D)",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "",
     Githublink: "",
   },
   {
-    title: "Flappy Bird",
+    title: "Meliora Industries Inc",
     cardImage: "assets/images/project-page/flappybird.png",
-    description: "Flappy bird game built using React.js",
+    description: "High-Tech Manufacturing",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
     Githublink: "",
   },
   {
-    title: "Exercise Tracker",
+    title: "Meliora Cosmic Ventures: MCV",
     cardImage: "assets/images/project-page/exercise.jpg",
-    description: "Exercise tracker built using basic redux.",
+    description: "Space Technologies",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
     Previewlink: "",
     Githublink: "",
   },
+
   {
     title: "Recipe Ingredient Parser",
     cardImage: "assets/images/project-page/recipe.jpg",
@@ -46,23 +47,26 @@ const projects = [
     Previewlink: "",
     Githublink: "",
   },
+
+
   {
-    title: "Poker Game",
+    title: "Bene Opes, LLC",
     cardImage: "assets/images/project-page/poker.jpg",
-    description: "Poker game built using typescript.",
+    description: "Financial Institution & Consulting ",
     tagimg: "https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png",
     Previewlink: "",
     Githublink: "",
   },
   {
-    title: "Tic Tac Toe Game",
+    title: "LuminArt Studio",
     cardImage: "assets/images/project-page/tic-tac-toe.png",
     description:
-      "Tested a React Tic Tac Toe Game using Jest and React Testing Library.",
+      "Arts",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
     Githublink: "",
   },
+
   {
     title: "Personal Book Library",
     cardImage: "assets/images/project-page/book.png",
@@ -110,6 +114,7 @@ const projects = [
     Githublink: "",
   },
 ];
+
 
 // function for rendering project cards data
 const showCards = () => {
